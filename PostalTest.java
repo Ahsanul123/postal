@@ -5,6 +5,7 @@
 import postalcode.*;
 import java.io.*;
 
+
 /**
  * This class retreives a postal code that will be inputted by the user
  * through the console.  It then calls the appropriate methods to verify
@@ -12,8 +13,9 @@ import java.io.*;
  *
  * @author Fran&ccedil;ois B&eacute;langer
  * @author Dr Timothy C. Lethbridge
- * @version July 2014
+ * @version July 2014 
  */
+
 public class PostalTest
 {
   //Class methods *****************************************************
